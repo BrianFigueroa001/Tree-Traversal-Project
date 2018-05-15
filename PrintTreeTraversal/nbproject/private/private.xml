@@ -4,7 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/B-Man/Documents/NetBeansProjects/PrintTreeTraversal/src/printreetraversal/PrintTreeTraversal.java</file>
+            <file>file:/C:/Users/B-Man/Documents/NetBeansProjects/PrintTreeTraversal/src/printreetraversal/Queue.java</file>
             <file>file:/C:/Users/B-Man/Documents/NetBeansProjects/PrintTreeTraversal/src/printreetraversal/BinaryTree.java</file>
+            <file>file:/C:/Users/B-Man/Documents/NetBeansProjects/PrintTreeTraversal/src/printreetraversal/Stack.java</file>
+            <file>file:/C:/Users/B-Man/Documents/NetBeansProjects/PrintTreeTraversal/src/printreetraversal/StackNode.java</file>
+            <file>file:/C:/Users/B-Man/Documents/NetBeansProjects/PrintTreeTraversal/src/printreetraversal/QueueNode.java</file>
         </group>
     </open-files>
 </project-private>

@@ -68,5 +68,6 @@ public class PrintTreeTraversal {
         tree1.printInOrder();
         tree1.printPostOrder();
         tree1.printPreOrder();
+        tree1.printLevelOrder();
     } 
 }

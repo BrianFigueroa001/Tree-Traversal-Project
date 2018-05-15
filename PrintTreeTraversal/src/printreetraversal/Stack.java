@@ -2,7 +2,6 @@ package printreetraversal;
 
 public class Stack {
     private StackNode top;
-    
 
     public void push(TreeNode treeNode) throws Exception { 
         StackNode newTop = new StackNode(treeNode);
