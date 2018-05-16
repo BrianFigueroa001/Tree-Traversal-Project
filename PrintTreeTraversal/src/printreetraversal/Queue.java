@@ -39,7 +39,7 @@ public class Queue {
         }
        
         QueueNode temporary = front;
-        front = rear.getNext();
+        front = front.getNext();
         
         if (front == null){
             rear = null;
