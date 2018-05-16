@@ -127,10 +127,10 @@ public class BinaryTree {
         while (!queue.isEmpty()) {
             TreeNode currentNode = queue.dequeue();
             if (currentNode.getLeft() != null){
-            queue.enqueue(currentNode.getLeft());
+                queue.enqueue(currentNode.getLeft());
             }
-            if(currentNode.getRight() != null){
-            queue.enqueue(currentNode.getRight());
+            if (currentNode.getRight() != null){
+                queue.enqueue(currentNode.getRight());
             }
             System.out.print(currentNode.getValue() + " ");
         }        
